@@ -1,0 +1,9 @@
+Tecnologias Backend: 
+-Python
+-Java
+-Ruby
+-NodeJSTecnologias Backend: 
+-Python
+-Java
+-Ruby
+-NodeJS
